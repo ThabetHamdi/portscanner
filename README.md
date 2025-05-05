@@ -22,8 +22,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/simple-ports-dns-scanner.git
-cd simple-ports-dns-scanner
+git clone https://github.com/ThabetHamdi/portscanner.git
+cd portscanner
 pip install -r requirements.txt
 sudo python app.py
 http://127.0.0.1:5000
